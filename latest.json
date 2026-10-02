@@ -1,10 +1,10 @@
 {
-  "version": "0.3.2",
-  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.2/SpecnetZohoPowerTool-0.3.2-win-x64.exe",
-  "sha256": "B10E7D876A933363B1BC8A695C7AA2D7C9EA08133E6F82370DCA03CD54F17BA7",
-  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.2/SpecnetZohoPowerToolService-0.3.2-win-x64.exe",
-  "serviceSha256": "CD2A54606DEA590F1A5E26581C8EECA9E78961A07D007E486551093FFC5E370D",
-  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.2/SpecnetZohoPowerToolSetup-0.3.2-win-x64.exe",
-  "installerSha256": "E53659F1EDBC10EC426AC2051C5F08352A30026F18267D588D725F2C688250FD",
-  "releaseNotes": "See the GitHub release notes for this version."
+  "version": "0.3.3",
+  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.3/SpecnetZohoPowerTool-0.3.3-win-x64.exe",
+  "sha256": "751A7987C880705AC6A41C7CEFCA7B24E18F32E7131D2C533DFA64A4D70B6876",
+  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.3/SpecnetZohoPowerToolService-0.3.3-win-x64.exe",
+  "serviceSha256": "D95F34B54EDEF04C1AC38F8AD757B33B2AE3D26527E657C4FC530D5C5E4A184F",
+  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.3/SpecnetZohoPowerToolSetup-0.3.3-win-x64.exe",
+  "installerSha256": "99895F5438D6F556C327AB324A18E916AC78A94D7C8BD8D2841A26AAA15C502B",
+  "releaseNotes": "Weekly debit-order retries now use exact live invoice eligibility, including returned invoices that Zoho marks overdue or partially paid. Includes recurring-profile payment-term verification and repair improvements."
 }
