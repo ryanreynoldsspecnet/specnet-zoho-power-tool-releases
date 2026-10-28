@@ -1,10 +1,10 @@
 {
-  "version": "0.3.3",
-  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.3/SpecnetZohoPowerTool-0.3.3-win-x64.exe",
-  "sha256": "751A7987C880705AC6A41C7CEFCA7B24E18F32E7131D2C533DFA64A4D70B6876",
-  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.3/SpecnetZohoPowerToolService-0.3.3-win-x64.exe",
-  "serviceSha256": "D95F34B54EDEF04C1AC38F8AD757B33B2AE3D26527E657C4FC530D5C5E4A184F",
-  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.3.3/SpecnetZohoPowerToolSetup-0.3.3-win-x64.exe",
-  "installerSha256": "99895F5438D6F556C327AB324A18E916AC78A94D7C8BD8D2841A26AAA15C502B",
-  "releaseNotes": "Weekly debit-order retries now use exact live invoice eligibility, including returned invoices that Zoho marks overdue or partially paid. Includes recurring-profile payment-term verification and repair improvements."
+  "version": "0.4.0",
+  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.0/SpecnetZohoPowerTool-0.4.0-win-x64.exe",
+  "sha256": "0CD3A8C541E69CA3F78453E8DEA053BCD9EC25383C25CECD6FA94872BA963BE4",
+  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.0/SpecnetZohoPowerToolService-0.4.0-win-x64.exe",
+  "serviceSha256": "7B2862FEAB01C0C67E48A3E36A8D704E41D949A0D251BEAAAF7261DDC1CF331B",
+  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.0/SpecnetZohoPowerToolSetup-0.4.0-win-x64.exe",
+  "installerSha256": "8747714C821494FE0194DA1E6858AA0C00D43167C97A5009C0FDE36061AB0F75",
+  "releaseNotes": "Adds Fuel Levy Correction with frozen exclusions, reviewed staged amendments and resumable checkpoints. Supply approved private inputs and complete live preflight, shared-lock validation and a small pilot before bulk processing. Updating does not start a correction run."
 }
