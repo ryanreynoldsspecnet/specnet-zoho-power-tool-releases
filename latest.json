@@ -1,10 +1,10 @@
 {
-  "version": "0.4.0",
-  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.0/SpecnetZohoPowerTool-0.4.0-win-x64.exe",
-  "sha256": "0CD3A8C541E69CA3F78453E8DEA053BCD9EC25383C25CECD6FA94872BA963BE4",
-  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.0/SpecnetZohoPowerToolService-0.4.0-win-x64.exe",
-  "serviceSha256": "7B2862FEAB01C0C67E48A3E36A8D704E41D949A0D251BEAAAF7261DDC1CF331B",
-  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.0/SpecnetZohoPowerToolSetup-0.4.0-win-x64.exe",
-  "installerSha256": "8747714C821494FE0194DA1E6858AA0C00D43167C97A5009C0FDE36061AB0F75",
-  "releaseNotes": "Adds Fuel Levy Correction with frozen exclusions, reviewed staged amendments and resumable checkpoints. Supply approved private inputs and complete live preflight, shared-lock validation and a small pilot before bulk processing. Updating does not start a correction run."
+  "version": "0.4.1",
+  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.1/SpecnetZohoPowerTool-0.4.1-win-x64.exe",
+  "sha256": "60C5094C3EC23CF655DD38B1F502B775C5B2D0178FF299CD9B681E2261FB64DE",
+  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.1/SpecnetZohoPowerToolService-0.4.1-win-x64.exe",
+  "serviceSha256": "D560CA099D7810ABD3BB5AA3096EE8C78E86B3F52713C014560E0810693B865B",
+  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.1/SpecnetZohoPowerToolSetup-0.4.1-win-x64.exe",
+  "installerSha256": "DBD8D7A17055BDF8A5F006FB156E9E5CC3FA3BE01B423A91583629A4E7BA288B",
+  "releaseNotes": "See the GitHub release notes for this version."
 }
