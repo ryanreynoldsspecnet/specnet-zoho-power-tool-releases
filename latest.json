@@ -1,10 +1,10 @@
 {
-  "version": "0.4.6",
-  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.6/SpecnetZohoPowerTool-0.4.6-win-x64.exe",
-  "sha256": "043821A8417169C48A36AA6036467C77BD29C08CD5EAB4372023BF03FC4BD81F",
-  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.6/SpecnetZohoPowerToolService-0.4.6-win-x64.exe",
-  "serviceSha256": "F3A77ACF497F1760A535EC5F905B63E682AF580E27D20840EEC4B1643D1C29E5",
-  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.6/SpecnetZohoPowerToolSetup-0.4.6-win-x64.exe",
-  "installerSha256": "199F68770C7B1BD21283FE76709C554449605DEEAA2CA32B33B8D0CCA5EC650E",
+  "version": "0.4.7",
+  "downloadUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.7/SpecnetZohoPowerTool-0.4.7-win-x64.exe",
+  "sha256": "D84D6E55B1E52812547ACC6FEC7E57F70AA8BEE0721717A4D7C4DAA2FC7CAB6C",
+  "serviceUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.7/SpecnetZohoPowerToolService-0.4.7-win-x64.exe",
+  "serviceSha256": "8B7D16B1A3444F001371EE7FBA278EB516739F7E027F43CAB7EF1D3763461616",
+  "installerUrl": "https://github.com/ryanreynoldsspecnet/specnet-zoho-power-tool-releases/releases/download/v0.4.7/SpecnetZohoPowerToolSetup-0.4.7-win-x64.exe",
+  "installerSha256": "7B8A65DE71BA080161DC2FBA4C83C57C1BDC0F099948BAE85262396B4F5E278E",
   "releaseNotes": "See the GitHub release notes for this version."
 }
